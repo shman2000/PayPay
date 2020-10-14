@@ -53,11 +53,11 @@ E2E test also would be needed for frontend, I would use webdriver.io for it.
 
 ### To start
 
-npm i
-npm start
-cd backend
-npm i
-npm run dev
+- npm i
+- npm start
+- cd backend
+- npm i
+- npm run dev
 
 
 
